@@ -1,0 +1,8 @@
+name: "KaylaFriend.github.io"
+navbar:
+  title: "Kayla Friend"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
