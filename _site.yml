@@ -1,9 +1,13 @@
 name: "KaylaFriend.github.io"
 output_dir: "."
 navbar:
-  title: "Kayla Friend"
+  title: "Print Vowels"
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
+    - text: "Installation"
       href: about.html
+    - text: "Getting Started"
+      href: gs.Rmd
+    - text: "Need Help?"
+      href: help.Rmd
