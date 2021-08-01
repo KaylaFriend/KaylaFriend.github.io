@@ -4,7 +4,7 @@ navbar:
   title: "Print Vowels"
   left:
     - text: "Home"
-      href: index2.html
+      href: index.html
     - text: "Installation"
       href: about.html
     - text: "Getting Started"
