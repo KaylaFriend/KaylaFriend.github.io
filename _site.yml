@@ -4,10 +4,10 @@ navbar:
   title: "Print Vowels"
   left:
     - text: "Home"
-      href: index.Rmd
+      href: index.html
     - text: "Installation"
-      href: about.Rmd
+      href: about.html
     - text: "Getting Started"
-      href: gs.Rmd
+      href: gs.html
     - text: "Need Help?"
-      href: help.Rmd
+      href: help.html
